@@ -12,7 +12,7 @@
 
     --fonte-padrao: Arial, Helvetica, sans-serif;
     --fonte-destaque: 'Bebas Neue', cursive;
-    --fonte-título:  cursive;
+    --fonte-titulo:  cursive;
 }
 
 * {
@@ -58,14 +58,14 @@ main {
 
 main h1 {
     color: var(--cor5);
-    font-family: var(--fonte-título);
+    font-family: var(--fonte-titulo);
     margin: 0px 0px;
     font-size: 1.8em;
     font-weight: normal;
 }
 
 main h2 {
-    font-family: var(--fonte-título);
+    font-family: var(--fonte-titulo);
     color: var(--cor5);
     background-image: linear-gradient(to right, var(--cor1), transparent);
     text-indent: 8px;
