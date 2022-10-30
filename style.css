@@ -164,6 +164,11 @@ aside li::before {
     content: '\2714\00A0\00A0';
 }
 
+aside ins {
+    text-decoration: none;
+    border-bottom: 1.8px dotted #000;
+}
+
 footer {
     background-color: var(--cor5);
     color: white;
