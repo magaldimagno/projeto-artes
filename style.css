@@ -104,6 +104,13 @@ main img {
     width: 100%;
 }
 
+p.legenda {
+    font-size: 0.8em;
+    margin: 0px;
+    font-style: italic;
+    text-indent: 0px;
+}
+
 main img.pequena {
     max-width: 350px;
     display: block;
