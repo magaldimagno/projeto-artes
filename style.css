@@ -2,6 +2,13 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
+@font-face {
+    font-family: 'H20 Shadow';
+    src: url(fontes/H2O-Shadow.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 :root {
     --cor0: #c5daeb;
     --cor1: #9acffa;
@@ -12,7 +19,7 @@
 
     --fonte-padrao: Arial, Helvetica, sans-serif;
     --fonte-destaque: 'Bebas Neue', cursive;
-    --fonte-titulo:  cursive;
+    --fonte-titulo: 'H20 Shadow', cursive;
 }
 
 * {
