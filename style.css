@@ -32,6 +32,10 @@ body {
     font-family: var(--fonte-padrao);
 }
 
+a {
+    padding: 0px;
+}
+
 a.externo::after {
     content: '\00A0\1F517';
 }
