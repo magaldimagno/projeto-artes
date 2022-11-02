@@ -93,7 +93,6 @@ main a {
     color: var(--cor5);
     text-decoration: none;
     font-weight: bold;
-    background-color: var(--cor1);
 }
 
 main a:hover {
