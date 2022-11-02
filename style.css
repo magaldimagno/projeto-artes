@@ -80,6 +80,7 @@ main h2 {
     text-indent: 8px;
     font-size: 1.5em;
     font-weight: bold;
+    border-radius: 8px;
 }
 
 main p {
@@ -102,6 +103,7 @@ main a:hover {
 
 main img {
     width: 100%;
+    border-radius: 10px;
 }
 
 p.legenda {
@@ -136,6 +138,7 @@ div.video > iframe {
     left: 5%;
     width: 90%;
     height: 90%;
+    border-radius: 10px;
 }
 
 aside {
